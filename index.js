@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 // First task
 const firstNumber = prompt("Enter a three-digit number").trim();
 if (firstNumber.length != 3) {
@@ -94,4 +93,4 @@ if (thirdNumber <= 0) {
   console.log("Number in range from 1 to 500");
 }
 */
->>>>>>> 25dc02ed5012326f0652b74af100ee02514481bb
+

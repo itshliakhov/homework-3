@@ -1,5 +1,4 @@
 // First task
-/*
 const firstNumber = prompt("Enter a three-digit number").trim();
 if (firstNumber.length != 3) {
   console.log("Sorry, you need to write a three-digital number.Try again!");
@@ -17,7 +16,6 @@ if (firstNumber.length != 3) {
 } else {
   console.log("None of the conditions are met ");
 }
-*/
 // Second task
 /*
 const secondNumber = Number(prompt("Enter a number from 1 to 3"));
